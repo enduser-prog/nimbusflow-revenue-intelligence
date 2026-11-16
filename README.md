@@ -4,6 +4,8 @@
 
 **Live Dashboard:** [View NimbusFlow Dashboard](https://nimbusflow-dashboard.netlify.app/)
 
+**NOTE - Dashboard designed by me (KPI selection, metric definitions, page structure, data modeling). Front-end implementation (HTML/CSS/JavaScript) generated with AI assistance, since my focus is on analytics rather than web development.**
+
 <img width="1000" height="400" alt="Screenshot 2026-11-14 230013" src="https://github.com/user-attachments/assets/c8ea561a-5968-4422-afe8-70cd3b34c22a" />
 
 <img width="1000" height="400" alt="Screenshot 2026-11-14 230131" src="https://github.com/user-attachments/assets/6d05bf8a-ce91-462b-b395-eb1bdfa40eab" />
